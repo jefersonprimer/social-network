@@ -11,7 +11,9 @@ async def configure_db(app: FastAPI):
             },
             'apps': {
                 'models': {
-                    'models': [],
+                    'models': [
+                        'src.datalayer.models.user'
+                    ],
                     'default_connection': 'default',
                 }
             }
