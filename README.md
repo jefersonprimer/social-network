@@ -1,4 +1,4 @@
-# social-network-yt
+# social-network
 
 ### install
 ```
