@@ -1,4 +1,4 @@
-- integrar com tortoise ORM
-- criar model de usuario
-- rota de cadastro
-- rota de login
+- subir no github
+- frontend
+- subir no vps/cloud o projeto backend
+- conectar banco de dados postgres
